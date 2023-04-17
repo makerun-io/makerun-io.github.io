@@ -1,6 +1,6 @@
-# homepage.makerun.io
+# $ make run
 
-Welcome!
+## Welcome!
 
 1. make it run
 2. make it right
