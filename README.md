@@ -1,3 +1,5 @@
+[makerun logo](_images/makerun-logo.png)
+
 # Making things run on the web
 
 1. make it run
