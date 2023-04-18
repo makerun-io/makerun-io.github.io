@@ -1,5 +1,3 @@
-# $ make run
-
 ## Welcome!
 
 1. make it run
