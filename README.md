@@ -1,4 +1,4 @@
-![makerun logo](_images/makerun-logo.png)
+![makerun logo](/_images/makerun-logo.png)
 
 # Making things run on the web
 
