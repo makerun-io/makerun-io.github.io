@@ -1,11 +1,3 @@
-# Making things run on the web
-
-1. make it run
-2. make it right
-3. make it fast
-
-Subscribe to updates:
-{% include newsletter-form.html %}
-
-Contact us:
-{% include contactus-iframe.html %}
+# Set up local development:
+1. bundle install
+2. bundle exec jekyll serve --trace --watch

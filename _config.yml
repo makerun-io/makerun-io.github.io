@@ -1,3 +1,5 @@
 title: "makerun.io: tools for web services"
 
 theme: minima
+
+exclude: [README.md]
