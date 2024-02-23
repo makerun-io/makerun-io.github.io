@@ -1,7 +1,8 @@
 export default {
-  logo: <span>Makerun knowledge repository</span>,
+  logo: <span>Makerun.io</span>,
   project: {
-    link: 'https://www.makerun.io'
-  }
+    link: 'https://github.com/makerun-io/makerun-io.github.io'
+  },
+  docsRepositoryBase: 'https://github.com/makerun-io/makerun-io.github.io'
   // ... other theme options
 }
