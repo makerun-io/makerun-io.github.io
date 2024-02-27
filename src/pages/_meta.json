@@ -1,3 +1,7 @@
 {
-  "index": "Main page"
+  "index": "Overview",
+  "programming": "Programming",
+  "workloads": "Workloads",
+  "infrastructure": "Infrastructure",
+  "monitoring": "Monitoring"
 }
