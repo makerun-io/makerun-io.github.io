@@ -5,7 +5,7 @@ export default {
   },
   docsRepositoryBase: 'https://github.com/makerun-io/makerun-io.github.io/tree/main',
   head: 
-    <link rel="icon" type="image/png" href="https://www.makerun.io/favicon.png" />,
+    <link rel="icon" type="image/png" href="https://www.makerun.io/favicon.ico" />,
   footer: {
     text: (
       <span>
