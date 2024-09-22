@@ -1,7 +1,4 @@
 {
-  "index": "Overview",
-  "programming": "Programming",
-  "workloads": "Workloads",
-  "infrastructure": "Infrastructure",
-  "monitoring": "Monitoring"
+  "index": "Start page",
+  "languages": "Programming Languages"
 }
